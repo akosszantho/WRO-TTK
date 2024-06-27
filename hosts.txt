@@ -1,0 +1,148 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2024-06-27 19:06 CEST
+Nmap scan report for XiaoQiang (192.168.31.1)
+Host is up (0.0053s latency).
+All 30 scanned ports on XiaoQiang (192.168.31.1) are in ignored states.
+Not shown: 30 closed tcp ports (reset)
+MAC Address: 64:64:4A:BB:40:07 (Beijing Xiaomi Mobile Software)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for K1C-9010 (192.168.31.14)
+Host is up (0.013s latency).
+All 30 scanned ports on K1C-9010 (192.168.31.14) are in ignored states.
+Not shown: 30 closed tcp ports (reset)
+MAC Address: FC:EE:28:03:90:10 (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for AWorks (192.168.31.30)
+Host is up (0.015s latency).
+All 30 scanned ports on AWorks (192.168.31.30) are in ignored states.
+Not shown: 30 closed tcp ports (reset)
+MAC Address: 6C:21:A2:99:E4:7F (Ampak Technology)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: 2N Helios IP VoIP doorbell (96%), Advanced Illumination DCS-100E lighting controller (96%), AudioControl D3400 network amplifier (96%), British Gas GS-Z3 data logger (96%), Chamberlain myQ garage door opener (96%), Daikin DKN Cloud Wi-Fi Adaptor (96%), Daysequerra M4.2SI radio (96%), Denver Electronics AC-5000W MK2 camera (96%), Eve Cam (lwIP 2.1.0 - 2.2.0) (96%), Fatek FBs-CBEH PLC Ethernet communication board (96%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 1 hop
+
+Nmap scan report for RE210 (192.168.31.31)
+Host is up (0.015s latency).
+All 30 scanned ports on RE210 (192.168.31.31) are in ignored states.
+Not shown: 30 closed tcp ports (reset)
+MAC Address: C0:25:E9:A6:8D:F9 (TP-Link Technologies)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for EPSONCB2655 (192.168.31.76)
+Host is up (0.019s latency).
+All 30 scanned ports on EPSONCB2655 (192.168.31.76) are in ignored states.
+Not shown: 30 closed tcp ports (reset)
+MAC Address: 64:EB:8C:CB:26:55 (Seiko Epson)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for EPSONED3342 (192.168.31.81)
+Host is up (0.037s latency).
+All 30 scanned ports on EPSONED3342 (192.168.31.81) are in ignored states.
+Not shown: 30 closed tcp ports (reset)
+MAC Address: 44:D2:44:ED:33:42 (Seiko Epson)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for MiWiFi-RA82 (192.168.31.110)
+Host is up (0.011s latency).
+All 30 scanned ports on MiWiFi-RA82 (192.168.31.110) are in ignored states.
+Not shown: 30 closed tcp ports (reset)
+MAC Address: 5C:02:14:B7:34:22 (Beijing Xiaomi Mobile Software)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 192.168.31.113
+Host is up (0.011s latency).
+All 30 scanned ports on 192.168.31.113 are in ignored states.
+Not shown: 30 closed tcp ports (reset)
+MAC Address: 5C:02:14:B7:34:25 (Beijing Xiaomi Mobile Software)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 192.168.31.126
+Host is up (0.019s latency).
+All 30 scanned ports on 192.168.31.126 are in ignored states.
+Not shown: 30 closed tcp ports (reset)
+MAC Address: 50:2C:C6:B4:6A:71 (Gree Electric Appliances, OF Zhuhai)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|specialized
+Running: lwIP 1.4.X
+OS CPE: cpe:/a:lwip_project:lwip:1.4.0 cpe:/a:lwip_project:lwip
+OS details: lwIP 1.4.0 or earlier, lwIP 1.4.1 - 2.0.3
+Network Distance: 1 hop
+
+Nmap scan report for 192.168.31.139
+Host is up (0.029s latency).
+All 30 scanned ports on 192.168.31.139 are in ignored states.
+Not shown: 30 closed tcp ports (reset)
+MAC Address: FA:69:A1:CB:16:BF (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for Renata-A33-eszkoze (192.168.31.149)
+Host is up (0.045s latency).
+All 30 scanned ports on Renata-A33-eszkoze (192.168.31.149) are in ignored states.
+Not shown: 30 closed tcp ports (reset)
+MAC Address: BA:4A:BD:9C:17:5E (Unknown)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for LGwebOSTV (192.168.31.161)
+Host is up (0.17s latency).
+All 30 scanned ports on LGwebOSTV (192.168.31.161) are in ignored states.
+Not shown: 30 filtered tcp ports (no-response)
+MAC Address: 20:28:BC:B1:6B:E2 (Visionscape)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 192.168.31.192
+Host is up (0.092s latency).
+All 30 scanned ports on 192.168.31.192 are in ignored states.
+Not shown: 30 filtered tcp ports (no-response)
+MAC Address: F4:91:1E:8B:91:8A (Zhuhai Ewpe Information Technology)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for DESKTOP-Windows (192.168.31.194)
+Host is up (0.036s latency).
+All 30 scanned ports on DESKTOP-Windows (192.168.31.194) are in ignored states.
+Not shown: 30 filtered tcp ports (no-response)
+MAC Address: 58:11:22:BF:52:BB (ASUSTek Computer)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for MiWiFi-RA82-srv (192.168.31.227)
+Host is up (0.12s latency).
+All 30 scanned ports on MiWiFi-RA82-srv (192.168.31.227) are in ignored states.
+Not shown: 30 closed tcp ports (reset)
+MAC Address: E8:9E:B4:46:96:16 (Hon Hai Precision Ind.)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for zhimi-airp-mb5_mibt4315 (192.168.31.252)
+Host is up (0.041s latency).
+All 30 scanned ports on zhimi-airp-mb5_mibt4315 (192.168.31.252) are in ignored states.
+Not shown: 30 closed tcp ports (reset)
+MAC Address: 7C:C2:94:05:43:15 (Beijing Xiaomi Mobile Software)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized
+Running: lovebox embedded, lwIP 2.X, M5Stack embedded
+OS CPE: cpe:/a:lwip_project:lwip:2
+OS details: Lovebox (lwIP 2.1.0 - 2.2.0), lwIP 2.1.0 - 2.2.0, M5Stack M5GO (lwIP 2.1.0 - 2.2.0)
+Network Distance: 1 hop
+
+Nmap scan report for kollegatop (192.168.31.83)
+Host is up (0.000023s latency).
+All 30 scanned ports on kollegatop (192.168.31.83) are in ignored states.
+Not shown: 30 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 0 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 256 IP addresses (17 hosts up) scanned in 21.50 seconds
