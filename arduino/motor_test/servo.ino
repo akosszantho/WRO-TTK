@@ -5,6 +5,7 @@
 Servo servo1;
 
 void servo_setup(){
+  pinMode(SERVO_IN, OUTPUT);
   servo1.attach(SERVO_IN);
   
 }
