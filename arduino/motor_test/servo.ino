@@ -11,7 +11,7 @@ void servo_setup(){
 }
 
 void servo_direction(unsigned int n){
-  const unsigned int d = min(1023, n);
+  const unsigned int d = n % SERVO_MAX;
   const unsigned int angle = (unsigned int) ( (double) (d * 180 / 1023));
   servo1.write(d);
   
