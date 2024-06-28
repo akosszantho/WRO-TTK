@@ -20,7 +20,7 @@ void motor_backward(){
 }
 
 void motor_speed(unsigned int n){
-  const unsigned int speed = min(255, n);
+  const unsigned int speed = min(1023, n);
   analogWrite(MOTOR_IN2, speed);
   
 }
